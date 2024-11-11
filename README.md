@@ -2,6 +2,7 @@
 # Multilingual datasets:
 - Youtube-25SL (metadatos): https://console.cloud.google.com/storage/browser/gresearch/youtube-sl-25;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false
 - JWSign (not yet available): https://github.com/ShesterG/JWSign-Machine-Translation
+- SwissSLI: https://www.swissubase.ch/en/catalogue/studies/20709/19836/overview
 
 
 # Monolingual datasets:
