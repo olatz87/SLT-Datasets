@@ -14,3 +14,6 @@
 
 ## Spanish: 
 - LSE-Health: https://zenodo.org/records/10234465
+
+## Greek: 
+- Elementary23: https://zenodo.org/records/7847052
