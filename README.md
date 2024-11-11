@@ -11,6 +11,9 @@
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
 
+## BSL:
+- BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
+
 ## DGS:
 - SIGNUM: http://metashare.elda.org/repository/browse/signum-database/ff69df40de6d11e2b1e400259011f6ea2d650f9143e6443d8bb48833ab204a60/
 
@@ -28,6 +31,7 @@
 ## English:
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
+- BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
 
 ## German:
 
