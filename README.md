@@ -5,15 +5,38 @@
 - SwissSLI: https://www.swissubase.ch/en/catalogue/studies/20709/19836/overview
 
 
-# Monolingual datasets:
+# Monolingual datasets (classified by Sign Language):
+
+## ASL: 
+- OpenASL: https://github.com/chevalierNoir/OpenASL
+- Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
+
+## DGS:
+- SIGNUM: http://metashare.elda.org/repository/browse/signum-database/ff69df40de6d11e2b1e400259011f6ea2d650f9143e6443d8bb48833ab204a60/
+
+## GSL: 
+- Elementary23: https://zenodo.org/records/7847052
+
+## LSE: 
+- LSE-Health: https://zenodo.org/records/10234465
+- 
+
+
+
+# Monolingual datasets (classified by Spoken Language)
+
 ## English:
+- OpenASL: https://github.com/chevalierNoir/OpenASL
+- Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
 
 ## German:
 
 - SIGNUM: http://metashare.elda.org/repository/browse/signum-database/ff69df40de6d11e2b1e400259011f6ea2d650f9143e6443d8bb48833ab204a60/
 
+## Greek: 
+- Elementary23: https://zenodo.org/records/7847052
+
 ## Spanish: 
 - LSE-Health: https://zenodo.org/records/10234465
 
-## Greek: 
-- Elementary23: https://zenodo.org/records/7847052
+
