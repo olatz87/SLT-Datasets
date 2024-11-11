@@ -1,10 +1,10 @@
 
-#Multilingual datasets:
+# Multilingual datasets:
 
 JWSign: https://github.com/ShesterG/JWSign-Machine-Translation
 
 
-#Monolingual datasets:
+# Monolingual datasets:
 ## English:
 
 ## German:
