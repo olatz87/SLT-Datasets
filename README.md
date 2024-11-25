@@ -11,6 +11,9 @@
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
 
+## AZSL
+- AzSLD: https://github.com/ADA-SITE-JML/azsl_dataloader
+
 ## BSL:
 - BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
 
@@ -27,10 +30,13 @@
 ## LSE: 
 - LSE-Health: https://zenodo.org/records/10234465
 - 
-## 
 
 
 # Monolingual datasets (classified by Spoken Language)
+
+## Azerbaijani:
+- AzSLD: https://github.com/ADA-SITE-JML/azsl_dataloader
+
 
 ## English:
 - OpenASL: https://github.com/chevalierNoir/OpenASL
