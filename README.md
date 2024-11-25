@@ -31,6 +31,9 @@
 ## LSE: 
 - LSE-Health: https://zenodo.org/records/10234465
 
+## LSFB:
+- LSFB-CONT: https://lsfb.info.unamur.be/#dataset
+
 ## KSL:
 - GKSL: https://github.com/AIRC-KETI/GKSL-dataset/tree/main
 - SLL: https://github.com/SSL-Sign-Language/Korean-Disaster-Safety-Information-Sign-Language-Translation-Benchmark-Dataset
@@ -47,6 +50,9 @@
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
 - BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
 - DailyMoth-70h: https://github.com/facebookresearch/ssvp_slt
+
+## French: 
+- LSFB-CONT: https://lsfb.info.unamur.be/#dataset
 
 ## Chinesse: 
 - CSL Dayly: https://ustc-slr.github.io/datasets/2021_csl_daily/
