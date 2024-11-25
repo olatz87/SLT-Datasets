@@ -16,6 +16,7 @@
 
 ## CSL: 
 - CSL Daily: https://ustc-slr.github.io/datasets/2021_csl_daily/
+- CE-CSL: https://github.com/woshisad159/TFNet.git
 
 ## DGS:
 - SIGNUM: http://metashare.elda.org/repository/browse/signum-database/ff69df40de6d11e2b1e400259011f6ea2d650f9143e6443d8bb48833ab204a60/
@@ -38,6 +39,7 @@
 
 ## Chinesse: 
 - CSL Dayly: https://ustc-slr.github.io/datasets/2021_csl_daily/
+- CE-CSL: https://github.com/woshisad159/TFNet.git
 
 ## German:
 
