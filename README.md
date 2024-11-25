@@ -10,6 +10,7 @@
 ## ASL: 
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
+- DailyMoth-70h: https://github.com/facebookresearch/ssvp_slt
 
 ## AZSL
 - AzSLD: https://github.com/ADA-SITE-JML/azsl_dataloader
@@ -45,6 +46,7 @@
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
 - BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
+- DailyMoth-70h: https://github.com/facebookresearch/ssvp_slt
 
 ## Chinesse: 
 - CSL Dayly: https://ustc-slr.github.io/datasets/2021_csl_daily/
