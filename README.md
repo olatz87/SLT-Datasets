@@ -29,7 +29,10 @@
 
 ## LSE: 
 - LSE-Health: https://zenodo.org/records/10234465
-- 
+
+## KSL:
+- GKSL: https://github.com/AIRC-KETI/GKSL-dataset/tree/main
+- SLL: https://github.com/SSL-Sign-Language/Korean-Disaster-Safety-Information-Sign-Language-Translation-Benchmark-Dataset
 
 
 # Monolingual datasets (classified by Spoken Language)
@@ -53,6 +56,12 @@
 
 ## Greek: 
 - Elementary23: https://zenodo.org/records/7847052
+
+
+## Korean:
+- GKSL: https://github.com/AIRC-KETI/GKSL-dataset/tree/main
+- SLL: https://github.com/SSL-Sign-Language/Korean-Disaster-Safety-Information-Sign-Language-Translation-Benchmark-Dataset
+
 
 ## Spanish: 
 - LSE-Health: https://zenodo.org/records/10234465
