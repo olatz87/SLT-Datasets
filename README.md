@@ -27,6 +27,7 @@
 
 ## GSL: 
 - Elementary23: https://zenodo.org/records/7847052
+- GSL Dataset: https://zenodo.org/records/3941811
 
 ## LSE: 
 - LSE-Health: https://zenodo.org/records/10234465
@@ -64,7 +65,7 @@
 
 ## Greek: 
 - Elementary23: https://zenodo.org/records/7847052
-
+- GSL Dataset: https://zenodo.org/records/3941811
 
 ## Korean:
 - GKSL: https://github.com/AIRC-KETI/GKSL-dataset/tree/main
