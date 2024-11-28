@@ -42,6 +42,11 @@
 - ISLTranslate: https://github.com/exploration-lab/isltranslate
 - iSign: https://exploration-lab.github.io/iSign/
 
+## KSL:
+- GKSL: https://github.com/AIRC-KETI/GKSL-dataset/tree/main
+- SLL: https://github.com/SSL-Sign-Language/Korean-Disaster-Safety-Information-Sign-Language-Translation-Benchmark-Dataset
+
+
 ## LSA:
 - LSA-T: https://github.com/midusi/LSA-T/
 
@@ -57,9 +62,8 @@
 ## LSFB:
 - LSFB-CONT: https://lsfb.info.unamur.be/#dataset
 
-## KSL:
-- GKSL: https://github.com/AIRC-KETI/GKSL-dataset/tree/main
-- SLL: https://github.com/SSL-Sign-Language/Korean-Disaster-Safety-Information-Sign-Language-Translation-Benchmark-Dataset
+## NGT:
+- Corpus NGT: https://hdl.handle.net/1839/00-0000-0000-0004-DF8E-6@view
 
 ## VGT: 
 - Content4All (VRT-NEWS): https://www.cvssp.org/data/c4a-news-corpus/
@@ -70,6 +74,9 @@
 ## Azerbaijani:
 - AzSLD: https://github.com/ADA-SITE-JML/azsl_dataloader
 
+## Dutch, Flemish:
+- Content4All (VRT-NEWS): https://www.cvssp.org/data/c4a-news-corpus/
+- Corpus NGT: https://hdl.handle.net/1839/00-0000-0000-0004-DF8E-6@view
 
 ## English:
 - OpenASL: https://github.com/chevalierNoir/OpenASL
@@ -102,9 +109,6 @@
 ## Korean:
 - GKSL: https://github.com/AIRC-KETI/GKSL-dataset/tree/main
 - SLL: https://github.com/SSL-Sign-Language/Korean-Disaster-Safety-Information-Sign-Language-Translation-Benchmark-Dataset
-
-## Ne
-- Content4All (VRT-NEWS): https://www.cvssp.org/data/c4a-news-corpus/
 
 ## Spanish: 
 - LSA-T: https://github.com/midusi/LSA-T/
