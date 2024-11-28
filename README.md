@@ -11,16 +11,18 @@
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
 - DailyMoth-70h: https://github.com/facebookresearch/ssvp_slt
-- ASLG-PC12: https://achrafothman.net/site/english-asl-gloss-parallel-corpus-2012-aslg-pc12/
 - How2Sing: https://how2sign.github.io/
 - DailyMoth: https://github.com/facebookresearch/ssvp_slt
+
+  
 
 ## AZSL
 - AzSLD: https://github.com/ADA-SITE-JML/azsl_dataloader
 
 ## BSL:
 - BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
-
+- BSL Corpus: https://bslcorpusproject.org/cava/
+  
 ## CSL: 
 - CSL Daily: https://ustc-slr.github.io/datasets/2021_csl_daily/
 - CE-CSL: https://github.com/woshisad159/TFNet.git
@@ -73,8 +75,8 @@
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
 - BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
+- BSL Corpus: https://bslcorpusproject.org/cava/
 - DailyMoth-70h: https://github.com/facebookresearch/ssvp_slt
-- ASLG-PC12: https://achrafothman.net/site/english-asl-gloss-parallel-corpus-2012-aslg-pc12/
 - How2Sing: https://how2sign.github.io/
 - DailyMoth: https://github.com/facebookresearch/ssvp_slt
 - ISLTranslate: https://github.com/exploration-lab/isltranslate
