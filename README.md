@@ -34,6 +34,7 @@
 
 ## DSGS:
 - Content4All (SWISSTXT-NEWS): https://www.cvssp.org/data/c4a-news-corpus/
+- SRF23: https://www.wmt-slt.com/data
 
 ## GSL: 
 - Elementary23: https://zenodo.org/records/7847052
@@ -104,6 +105,7 @@
 - Content4All (SWISSTXT-NEWS): https://www.cvssp.org/data/c4a-news-corpus/
 - Phoenix-2014T: https://www-i6.informatik.rwth-aachen.de/~koller/RWTH-PHOENIX-2014-T/
 - SIGNUM: http://metashare.elda.org/repository/browse/signum-database/ff69df40de6d11e2b1e400259011f6ea2d650f9143e6443d8bb48833ab204a60/
+- SRF23: https://www.wmt-slt.com/data
 
 
 ## Greek: 
