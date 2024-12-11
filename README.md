@@ -36,6 +36,9 @@
 - Content4All (SWISSTXT-NEWS): https://www.cvssp.org/data/c4a-news-corpus/
 - SRF23: https://www.wmt-slt.com/data
 
+## FinSL:
+- The Corpus of Finnish Sign Language: https://www.kielipankki.fi/corpora/cfinsl/
+
 ## GSL: 
 - Elementary23: https://zenodo.org/records/7847052
 - GSL Dataset: https://zenodo.org/records/3941811
@@ -91,6 +94,9 @@
 - ISLTranslate: https://github.com/exploration-lab/isltranslate
 - OpenASL: https://github.com/chevalierNoir/OpenASL
 - Youtube-ASL: https://github.com/google-research/google-research/tree/master/youtube_asl
+
+## Finish:
+- The Corpus of Finnish Sign Language: https://www.kielipankki.fi/corpora/cfinsl/
 
 ## French: 
 - LSFB Dataset: https://lsfb-team.github.io/lsfb-dataset/download/
