@@ -43,6 +43,9 @@
 - Elementary23: https://zenodo.org/records/7847052
 - GSL Dataset: https://zenodo.org/records/3941811
 
+## HKSL
+- TVB-HKSL-NEWS: https://tvb-hksl-news.github.io/
+
 ## ISL:
 - iSign: https://exploration-lab.github.io/iSign/
 - ISLTranslate: https://github.com/exploration-lab/isltranslate
@@ -84,6 +87,11 @@
 - Content4All (VRT-NEWS): https://www.cvssp.org/data/c4a-news-corpus/
 - Corpus NGT: https://hdl.handle.net/1839/00-0000-0000-0004-DF8E-6@view
 
+## Chinesse: 
+- CE-CSL: https://github.com/woshisad159/TFNet.git
+- CSL-Daily: https://ustc-slr.github.io/datasets/2021_csl_daily/
+- TVB-HKSL-NEWS: https://tvb-hksl-news.github.io/
+
 ## English:
 - AuslanDaily: https://uq-cvlab.github.io/Auslan-Daily-Dataset/docs/en/dataset-download
 - BOBS: https://www.robots.ox.ac.uk/~vgg/data/bobsl/
@@ -102,9 +110,6 @@
 - LSFB Dataset: https://lsfb-team.github.io/lsfb-dataset/download/
 - Mediapi-RGB: https://www.ortolang.fr/market/corpora/mediapi-rgb?lang=en
 
-## Chinesse: 
-- CE-CSL: https://github.com/woshisad159/TFNet.git
-- CSL-Daily: https://ustc-slr.github.io/datasets/2021_csl_daily/
 
 
 ## German:
