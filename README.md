@@ -1,8 +1,10 @@
 
 # Multilingual datasets:
-- Youtube-25SL (metadatos): https://console.cloud.google.com/storage/browser/gresearch/youtube-sl-25;tab=objects?pli=1&prefix=&forceOnObjectsSortingFiltering=false
+- AfriSign: https://github.com/ShesterG/AfriSign/tree/main
+- Youtube-25SL (metadata): https://github.com/google-research/google-research/tree/master/youtube_sl_25
 - JWSign (not yet available): https://github.com/ShesterG/JWSign-Machine-Translation
 - SwissSLI: https://www.swissubase.ch/en/catalogue/studies/20709/19836/overview
+- SP-10: https://github.com/MLSLT/SP-10
 
 
 # Monolingual datasets (classified by Sign Language):
